@@ -1,4 +1,5 @@
-const API_KEY = "";
+// TMDB API
+const API_KEY = "YOUR-API-KEY";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
